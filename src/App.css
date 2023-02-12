@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.headerBtn{
+  width: 140px;
+  height: 140px;
+  border-color: white;
+  color: white;
+}
