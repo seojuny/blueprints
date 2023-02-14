@@ -1,0 +1,12 @@
+.headerBtn{
+    width: 100px;
+    height: 30px;
+    border-color: black;
+    background-color: transparent;
+    color: black;
+    justify-content: right;
+  }
+
+.header{
+    text-align: left;
+}
