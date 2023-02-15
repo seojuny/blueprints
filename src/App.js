@@ -3,7 +3,7 @@ import Header from './Header';
 function App() {
   return (
     <>
-    <Header title="Header" />
+    <Header imgLink="blueprints_logo.png" />
     </>
   );
 }

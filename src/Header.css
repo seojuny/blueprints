@@ -1,12 +1,21 @@
 .headerBtn{
-    width: 100px;
+    width: 120px;
     height: 30px;
     border-color: black;
     background-color: transparent;
     color: black;
-    justify-content: right;
+    float: right;
   }
 
 .header{
     text-align: left;
+}
+
+.headerImg{
+    position: absolute;
+    width: 213.26px;
+    height: 63px;
+    left: 50px;
+    top: 19px;
+    object-fit: contain;
 }
